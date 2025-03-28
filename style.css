@@ -1,5 +1,5 @@
 /* GENARAl */
-@import url('https://fonts.googleapis.com/css2?family=Boldonse&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Press+Start+2P&family=VT323&display=swap');
 
 
 * {
@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family: "Boldonse", system-ui;
+    font-family: "VT323", monospace;
 }
 
 html {
